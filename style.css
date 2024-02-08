@@ -1,0 +1,83 @@
+.full-width {
+    width: 100%;
+    height: auto;
+}
+
+#bold-title {
+    font-size: 48px;
+}
+
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.bold-num {
+    font-weight: bold;
+}
+
+td {
+    text-align: center;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.team-score {
+    font-weight: bold;
+}
+
+.carolina-blue {
+    color: #7BAFD4;
+}
+
+.duke-blue {
+    color: #003087;
+}
+
+.box-scores table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.unc-table {
+    border: 2px solid #7BAFD4;
+}
+
+.duke-table {
+    border: 2px solid #003087;
+
+}
+
+.box-scores h3 {
+    text-align: center;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+table,
+a {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#label-font {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
